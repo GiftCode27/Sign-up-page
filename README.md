@@ -8,7 +8,7 @@ Flexbox
 
 Media Queries
 
-Vanilla JavaScript
+
 
 JavaScript's Constraint Validation API
 

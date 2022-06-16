@@ -12,7 +12,7 @@ Vanilla JavaScript
 
 JavaScript's Constraint Validation API
 
-What I learned
+What I learned;
 
 JavaScript constraint validation.
 

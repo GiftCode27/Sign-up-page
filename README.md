@@ -1,3 +1,7 @@
+please here is the default url to my published page for the Hudlle Landing Page task, I mistakenly submitted the published page.   link https://github.com/GiftCode27/Huddle-Landing-Page-1/settings/pages Thank you.
+
+SIGN-UP FORM
+
 Built with;
 
 Semantic HTML5 markup
